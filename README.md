@@ -19,5 +19,4 @@ install nodemon - npm install -g nodemon (it will refresh server itself whenever
 
 
 App side:
-
 Replace your app folder with the app folder given in this repository
